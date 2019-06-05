@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Herd Migration Revival</name>
+  <author>CrunchyDuck</author>
+  <targetVersion>1.0.0</targetVersion>
+  <description>Returns the Herd Migration event back to all biomes.
+Still works on 0.19.0 even though it is listed for 1.0.0</description>
+</ModMetaData>
